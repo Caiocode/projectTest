@@ -113,7 +113,7 @@ span {
         transform: rotate(540deg);
     }
 }
-@media only screen and (min-width: 100px) and (max-width: 800px){
+@media only screen and (min-width: 200px) and (max-width: 800px){
     header{
         display: grid;
         justify-content: center;
@@ -125,7 +125,7 @@ span {
         left: 0;
     }
     .welcomeMe{
-        font-size: 29px;
+        font-size: 26px;
         background: black;
         padding: 40px 0;
         margin-top: 150px;
